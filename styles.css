@@ -1,0 +1,27 @@
+/* styles.css */
+
+/* Add styles here to customize the appearance of your app */
+.convGrid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    gap: 20px;
+    padding: 20px;
+}
+.myNavigator{
+    display: grid;
+    grid-template-columns: 8fr 1fr 1fr;
+    padding: 20px;
+}
+.myNavigator>*{
+    margin: 0;
+    padding: 0;
+    align-self: center;
+}
+.navBodyGrid{
+    display: grid;
+    grid-template-rows: 1fr 1fr;
+}
+ons-input{
+    color
+}
